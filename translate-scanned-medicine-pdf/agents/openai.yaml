@@ -1,0 +1,4 @@
+interface:
+  display_name: "Translate Medicine PDF"
+  short_description: "OCR and rebuild scanned drug leaflet PDFs in Chinese"
+  default_prompt: "Translate this scanned medicine leaflet PDF into Chinese and preserve the original two-panel layout as much as possible."

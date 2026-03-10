@@ -1,0 +1,36 @@
+{
+  "top_note_1": "1. 说明书尺寸：100 × 170 mm",
+  "top_note_2": "2. 正反面印刷",
+  "body_font_size": 12,
+  "title_font_size": 20,
+  "line_spacing": 3,
+  "front": {
+    "label": "正面",
+    "header": "患者用药信息",
+    "brand": "OPKO",
+    "text": "在这里填入正面中文译文。\n\n建议按临床意义而不是 OCR 原始顺序来重建段落。"
+  },
+  "back": {
+    "label": "背面",
+    "header": "禁忌症 / 注意事项",
+    "brand": "OPKO",
+    "text": "在这里填入背面中文译文。\n\n建议优先保留禁忌、警告、不良反应、过量和贮藏信息。"
+  },
+  "metadata": {
+    "product": "SALBUTAMOL(LF)\n100 MCG. INH. 200 x 1",
+    "version": "V-00",
+    "barcode": "",
+    "internal_code": "PT00604",
+    "date": "2022-08-04",
+    "comments": "尺寸调整",
+    "dimensions": "110 x 170 mm",
+    "colors": "black",
+    "fonts": "Eurostile-Condensed Bold\nEurostile\nHelvetica Neue",
+    "material": "BOND PAPER 75 GR",
+    "company": "OPKO",
+    "approver": "总经理",
+    "marketing": "营销总监",
+    "designer": "DULCE S.\n2022-08-08",
+    "purchase_order": "采购订单"
+  }
+}
